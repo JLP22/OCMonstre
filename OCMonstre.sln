@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCMonstre", "OCMonstre\OCMonstre.csproj", "{07939F54-8261-41B6-A8E7-50E297CE2BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07939F54-8261-41B6-A8E7-50E297CE2BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07939F54-8261-41B6-A8E7-50E297CE2BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07939F54-8261-41B6-A8E7-50E297CE2BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07939F54-8261-41B6-A8E7-50E297CE2BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D8EC904-70D8-4410-8327-1460C16CAC17}
+	EndGlobalSection
+EndGlobal
